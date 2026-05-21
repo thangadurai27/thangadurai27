@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thangadurai27" alt="thangadurai27" /></a> </p>
 
-- Full Stack Development Intern at ZSOFT Tech Solution Interns [Web Application Development](https://github.com/thangadurai27/FUTURE_FS_01)
+- Full Stack Development Intern at G-Zoft Tech Solutions Intern [Full Stack Web Application Development](https://github.com/thangadurai27/FUTURE_FS_01)
 
 - 🌱 I’m currently learning **DevOps Tools: GitHub Actions, Docker, CI/CD pipelines Cybersecurity Basics: Tools & techniques for secure app development Machine Learning: Basics of ML models and intelligent agents**
 
