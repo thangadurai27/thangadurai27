@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **std23clg@gmail.com**
 
-- 📄 Know about my experiences [💻 Frontend: HTML, CSS, JavaScript, React 🖥️ Backend: Node.js, Express.js, MongoDB 🧪 Projects: Built and deployed responsive full stack applications (links in pinned repositories).🔐 Cybersecurity Tools – Exploring fundamentals of network security, ethical hacking, and vulnerability scanning ⚙️ DevOps Basics – Working with CI/CD pipelines, Docker, Git, Linux basics, and deployment automation.](💻 Frontend: HTML, CSS, JavaScript, React 🖥️ Backend: Node.js, Express.js, MongoDB 🧪 Projects: Built and deployed responsive full stack applications (links in pinned repositories).🔐 Cybersecurity Tools – Exploring fundamentals of network security, ethical hacking, and vulnerability scanning ⚙️ DevOps Basics – Working with CI/CD pipelines, Docker, Git, Linux basics, and deployment automation.)
+- 📄 Know about my experiences [💻 Frontend: HTML, CSS, JavaScript, React 🖥️ Backend: Node.js, Express.js, MongoDB 🧪 Projects: Built and deployed responsive full stack applications (links in pinned repositories).🔐 Cybersecurity Tools – Exploring fundamentals of network security, ethical hacking, and vulnerability scanning ⚙️ DevOps Basics – Working with CI/CD pipelines, Docker, Git, Linux basics, and deployment automation.]
 
 - ⚡ Fun fact **I commit to Git more than I commit to plans. 😂I still don’t know why it works, but hey — it works! 🤷‍♂️✅**
 
