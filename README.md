@@ -1,5 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Thangadurai!
+
+
 🚀 Full Stack Developer | React Native Developer | AI Enthusiast<br><br>I'm a Final-year B.E. CSE(AI & ML) student at Sri Eshwar College of Engineering, passionate about building scalable applications, exploring new technologies, and solving real-world problems through code.<br><br>🔭 I’m currently working on: React Native mobile applications at KlyONIX Tech.<br><br>👯 I’m looking to collaborate on: Full-stack, AI-powered, and open-source projects.<br><br>🤝 I’m looking for help with: Advanced React Native, system design, and scalable application development.<br><br>🌱 I’m currently learning: React Native, Frappe Framework<br><br>💬 Ask me about: React, React Native, Node.js, MongoDB, JavaScript, and AI/ML.<br><br>⚡ Fun fact: I love turning creative ideas into real-world applications and enjoy fitness and adventure!
 
 
